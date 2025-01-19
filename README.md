@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TOPSIS Package
 
 ## Overview
@@ -39,3 +40,7 @@ python -m topsis 102203551-data.csv "1,1,1,2,3" "+,+,-,+,+" 102203551-result.csv
 - `<Weights>`: Comma-separated weights for each criterion (e.g., `1,2,1,1`).
 - `<Impacts>`: Comma-separated impacts for each criterion (`+` for benefit, `-` for cost).
 - `<ResultFileName>`: Name of the output file where results will be saved.
+=======
+# topsis-python-package
+published on pypi.org
+>>>>>>> 72fab1d728ad41fc6bc94e636bd9458a03e275a8
