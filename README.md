@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TOPSIS Package
 
 ## Overview
@@ -43,4 +42,3 @@ python -m topsis 102203551-data.csv "1,1,1,2,3" "+,+,-,+,+" 102203551-result.csv
 =======
 # topsis-python-package
 published on pypi.org
->>>>>>> 72fab1d728ad41fc6bc94e636bd9458a03e275a8
